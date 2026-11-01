@@ -200,7 +200,7 @@ Para publicar en una subcarpeta, configurar `VITE_BASE_PATH` con su ruta antes d
 
 La autenticación, el perfil, el detalle de las pizzas y la compra necesitan un backend accesible desde el sitio publicado. Si el frontend se publica con HTTPS, configurar una API pública con HTTPS mediante `VITE_API_URL`.
 
-Los enlaces del Hito 7 permanecen en `notas/README-anterior.md` como referencia del proyecto anterior.
+
 
 ## 🔗 Repositorio
 
